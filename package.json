@@ -1,6 +1,7 @@
 {
-  "name": "kevoo-ai-studio",
+  "name": "kevoo-ai",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "start": "node server.js"
   },
